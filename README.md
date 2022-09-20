@@ -2,4 +2,4 @@
 - 👀 I’m interested in geospatial data and its applications
 - 🌱 I’m currently learning to code :P
 - 💞️ I’m looking to collaborate in the Rice Data Analytics Program
-- 📫 Reeach me at mprud2@hotmail.com
+- 📫 Reach me at mprud2@hotmail.com
